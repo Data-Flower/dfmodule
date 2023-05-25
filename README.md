@@ -16,3 +16,6 @@
 ### common.b64uuid_
 - base64 uuid functions
 
+### common.compress_
+- compress functions
+
