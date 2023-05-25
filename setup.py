@@ -2,12 +2,12 @@ from setuptools import setup, find_packages
 
 setup(
     name='dfmodule',
-    version='0.0.6.1',
+    version='0.0.7',
     description='data management project common features module',
     author='rimmoyee',
     author_email='rimmoyee@gmail.com',
     url='',
-    install_requires=['boto3', 'b64uuid', 'cryptography'],
+    install_requires=['boto3', 'b64uuid', 'cryptography', 'requests'],
     packages=find_packages(exclude=[]),
     keywords=['dfmodule', 'dfmodule777'],
     python_requires='>=3.6',
