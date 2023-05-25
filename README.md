@@ -22,3 +22,5 @@
 ### common.cryptography_
 - cryptography functions
 
+### common.json_
+- json functions
