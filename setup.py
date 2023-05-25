@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='dfmodule',
-    version='0.0.2',
+    version='0.0.2.2',
     description='PYPI tutorial package by howardHamm',
     author='rimmoyee',
     author_email='rimmoyee@gmail.com',
