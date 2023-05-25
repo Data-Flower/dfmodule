@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='dfmodule',
-    version='0.0.7',
+    version='0.0.8',
     description='data management project common features module',
     author='rimmoyee',
     author_email='rimmoyee@gmail.com',
