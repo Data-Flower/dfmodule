@@ -2,6 +2,14 @@
 def debug_text():
     print('this is modules/aws_ __init__.py')
 
+def debug_import():
+    try:
+        import boto3
+        return True
+    except Exception as e:
+        print(e)
+        return False
+
 def send_to_aws_s3_path(data, file_path, accessParams):
     """ 데이터를 AWS S3에 전송하는 함수 """
     import boto3
