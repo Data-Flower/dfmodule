@@ -1,6 +1,9 @@
 # dfmodule
  common use data flow project
 
+## pypi setup
+[link](doc/pypi_setup.md)
+
 > 패키지 빌드
 
 1. root path에 setup.py 작성
