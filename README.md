@@ -19,3 +19,6 @@
 ### common.compress_
 - compress functions
 
+### common.cryptography_
+- cryptography functions
+
