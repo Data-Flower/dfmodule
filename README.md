@@ -1,8 +1,8 @@
 # dfmodule
  common use data flow project
 
-## pypi setup
-[link](doc/pypi_setup.md)
+## [pypi setup](doc/pypi_setup.md)
+<!-- [link](doc/pypi_setup.md) -->
 
 > 패키지 빌드
 
